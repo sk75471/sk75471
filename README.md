@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sk75471
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in becoming Software Engineer
+- 🌱 I’m currently learning Java
 - 📫 How to reach me @sk75471@email.vccs.edu
 
 <!---
